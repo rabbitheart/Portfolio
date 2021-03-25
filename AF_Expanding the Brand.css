@@ -1,0 +1,107 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&display=swap');
+
+body {
+	font-family: 'Roboto', sans-serif;
+	font-size: 14pt;
+	line-height: 1.5em;
+	color: #545454;
+}
+
+main {
+width: 1200px;
+margin: auto;
+}
+
+header {
+padding: 20px; 
+background: #201747; 
+margin-bottom: 20px;
+color: #FFF !important;
+width: 100%;
+}
+
+header h2 { 
+font-size: 24px; 
+line-height: 1.2em; 
+padding-bottom: 8px; 
+color: #fff; 
+text-transform: uppercase; 
+}
+
+header h3 {
+font-size: 18px; 
+line-height: 1.5em; 
+}
+
+h1, h2, h3, h4, h5, h6 {
+font-family: 'Oswald', sans-serif !important;
+}
+
+h3.loc1  {
+    background: #0221b8; 
+}
+
+
+h3.loc2 {
+    background: #2198ff;
+}
+
+h3.loc3 {
+    background: #91d148;
+}
+
+h3.loc1, h3.loc2, h3.loc3 {
+   padding: 15px 10px;
+    width: 100%;
+		color: #fff;
+    font-weight: normal !important;
+    text-align: center;
+	}
+	
+span.loc1, span.loc2, span.loc3 {
+font-weight: bold;
+text-transform: uppercase;
+}
+
+span.loc1 {
+color: #0221b8; 
+}
+
+span.loc2 {
+color: #2198ff;
+}
+
+span.loc3 {
+color: #91d148;
+}
+
+#cols {
+width: 100%;
+display: flex;
+flex-direction: row;
+flex-wrap: nowrap;
+justify-content: space-between;
+}
+
+.two {
+width: 575px;
+}
+
+.three {
+width: 375px;
+}
+
+.grey {
+width: 100%;
+background: #DDD;
+padding: 20px;
+}
+
+blockquote {
+margin: 0;
+color: #001ca3;
+font-size: 18pt;
+line-height: 1.75em;
+}

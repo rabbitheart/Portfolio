@@ -8,6 +8,6 @@ This email template was for an artist based in Sebastopol, California. It was us
 
 ## Web Pages
 
-**Expanding the Brand**
-[Preview](https://rabbitheart.neocities.org/portfolio/AF_Expanding%20the%20Brand.html)
-This webpage was meant for a company announcement via wordpress.
+**Expanding the Brand**  
+[Preview](https://rabbitheart.neocities.org/portfolio/AF_Expanding%20the%20Brand.html)  
+This webpage was meant for a company announcement via wordpress.  
